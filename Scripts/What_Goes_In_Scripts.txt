@@ -1,0 +1,1 @@
+This folder contains all the code written by programmers and possibly level designers. Unity uses the C# language for scripting. If you are a level designer, you need to test your code locally have it reviewed by the lead programmer before you submit it to Perforce. Trust me, you never want to the be the guy who breaks the game. 
